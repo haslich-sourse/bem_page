@@ -1,0 +1,20 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+.title {
+    color: #333;
+    text-align: center;
+}
+
+.text {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.highlight {
+    background-color: yellow;
+}
